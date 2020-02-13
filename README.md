@@ -22,4 +22,8 @@ Resources:
 - Bootsrap
 
 
+Frontend - https://github.com/GirijaViswa/YouChoose
+Backend  - https://github.com/GirijaViswa/youtube-backend
+
+
 Created By Bronte Sewell & Girija Viswanathan
